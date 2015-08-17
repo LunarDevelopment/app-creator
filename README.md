@@ -2,10 +2,13 @@
 
 
 ---
+
 Creator: Lewis Dimmick  
 Date: 17-08-15
 Description: The production of hybrid mobile apps without technical ability / previous experience and minimal training. 
+
 ---
+
 In Scope:
 - Produce "brochure" hybrid mobile apps
 - Drive sales of other products by offering as an inscentive
@@ -21,9 +24,9 @@ Out of Scope:
 
 | Project Goal	| Status | 	Priority (1 == highest)	| Comment/Description/Reference |
 | ------------  |---  | ------------  | ----------------------------  |
-| MD Flagship App  | 2  | A Flagship app is needed to aid the sales team and to establish production process flow  |
-| First Sales  | 2  | 10 (ten) customers will be used as test clients to better understand the market  |
-| User Workflow  | 1  | Processes needed by end user to complete and deliver an App  |
+| MD Flagship App | Ongoing | 2  | A Flagship app is needed to aid the sales team and to establish production process flow  |
+| First Sales | Ongoing | 2  | 10 (ten) customers will be used as test clients to better understand the market  |
+| User Workflow | Ongoing | 1  | Processes needed by end user to complete and deliver an App  |
 | ------------  |---  | ------------  | ----------------------------  |
 | ------------  |---  | ------------  | ----------------------------  |
 | ------------  |---  | ------------  | ----------------------------  |
@@ -32,8 +35,8 @@ Out of Scope:
 | ------------  |---  | ------------  | ----------------------------  |
 | <Time-to-market> 		 |---  | ------------  | ----------------------------  |	
 | <efficiency, cost, quality>		 |---  | ------------  | ----------------------------  |	
-| First Sale  |---  | 2  | Earn first sale using brochure App as an inscentive  |
-| Apps as Stand Alone  |---  | 5  | Offering Apps as a stand alone service  |
+| First Sale  | Ongoing  | 2  | Earn first sale using brochure App as an inscentive  |
+| Apps as Stand Alone  | Ongoing  | 5  | Offering Apps as a stand alone service  |
 | ------------  |---  | ------------  | ----------------------------  |
 | ------------  |---  | ------------  | ----------------------------  |
 | Technological Goals: |---  | ------------  | ----------------------------  |		
