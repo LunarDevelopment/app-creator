@@ -48,6 +48,13 @@ Out of Scope:
 
 ---
 
+| Resource  | Cost  | Contact/ Ref  | Description  |
+| Apple Dev Lic  | £79  | Apple  | [Apple](https://developer.apple.com/)  |
+| Adnroid Dev Lic  | £16  | Google Play  | [Google Play](https://play.google.com/apps/publish/signup/)  |
+| ------------  | ------------  | ------------  | ----------------------------  |
+
+---
+
 | Resource  | Contact/ Ref  | Description  |
 | ------------  | ------------  | ----------------------------  |
 | ------------  | ------------  | ----------------------------  |
